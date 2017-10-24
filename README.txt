@@ -37,4 +37,4 @@ Hexadecimal format - 0C02
 
 Command with autoincrement indirect addressing:
 In binary format - 0000 1100 0000 0011
-In hexadecimal format – 0C03 
+In hexadecimal format – 0C03
